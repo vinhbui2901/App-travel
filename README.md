@@ -1,2 +1,2 @@
 # App-travel
-![login] (https://github.com/vinhbui2901/App-travel/blob/master/assets/app/login.png?raw=true)
+![login] (https://raw.githubusercontent.com/vinhbui2901/App-travel/master/assets/app/login.png)
