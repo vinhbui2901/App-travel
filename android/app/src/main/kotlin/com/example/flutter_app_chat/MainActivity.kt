@@ -1,4 +1,4 @@
-package com.example.flutter_app_chat
+package com.vsp.authen
 
 import io.flutter.embedding.android.FlutterActivity
 

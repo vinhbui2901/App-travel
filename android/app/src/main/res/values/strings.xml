@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">firebase app chat</string>
-
+    <string name="app_name">auth</string>
+    <string name="facebook_app_id">1297268874309412</string>
+    <string name="facebook_client_token">4beebccdde25a70a133f8074e38e6eaf</string>
+    <string name="fb_login_protocol_scheme">fb1297268874309412</string>
 </resources>
-=======
-
->>>>>>> a42a6b24cb55a442eba11a2162934fe0d33944b5

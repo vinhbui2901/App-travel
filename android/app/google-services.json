@@ -1,44 +1,26 @@
 {
   "project_info": {
-    "project_number": "543014479841",
-    "project_id": "flutter-chat-37a53",
-    "storage_bucket": "flutter-chat-37a53.appspot.com"
+    "project_number": "357923667565",
+    "project_id": "vsp-place",
+    "storage_bucket": "vsp-place.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:543014479841:android:09b4009b2e72ea084314a0",
+        "mobilesdk_app_id": "1:357923667565:android:bd16e41bfd8929dd2f8964",
         "android_client_info": {
-          "package_name": "com.example.flutter_app_chat"
+          "package_name": "com.vsp.authen"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "543014479841-3m3nf3hgbf197bskt8u2s1hu4jgao62f.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.flutter_app_chat",
-            "certificate_hash": "1e641268f5c087cb0c511477ca3d363ff476d7ed"
-          }
-        },
-        {
-          "client_id": "543014479841-0dpurp90sjl36pj010bks2lfi4qokl2b.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDFQMELNBWKGpnCgeQobZpKLC_4rEdDRj0"
+          "current_key": "AIzaSyAng4FrPF6yTrLsxS-dE4Etbs_5EVgBrl0"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "543014479841-0dpurp90sjl36pj010bks2lfi4qokl2b.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }

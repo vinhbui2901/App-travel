@@ -27,7 +27,7 @@ apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
 apply plugin: 'com.google.gms.google-services'
 
 android {
-    compileSdkVersion 32
+    compileSdkVersion 33
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
@@ -43,11 +43,11 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.example.flutter_app_chat"
-        minSdkVersion 22
-        targetSdkVersion 32
-        versionCode flutterVersionCode.toInteger()
-        versionName flutterVersionName
+        applicationId "com.vsp.authen"
+        minSdkVersion 24
+        targetSdkVersion 33
+        versionCode 1
+        versionName "1.0.0"
     }
 
     buildTypes {
@@ -65,6 +65,5 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation platform('com.google.firebase:firebase-bom:30.1.0')
     implementation 'com.google.firebase:firebase-analytics'
-    implementation 'com.facebook.android:facebook-login:latest.release'
-    
+    implementation 'com.facebook.android:facebook-android-sdk:[8,9)'
 }
